@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(221, 221, 221);
+}
+
+button{
+    margin-top: 10px;
+    background: rgb(255, 255, 255);
+    
+}
+
+button:hover{
+    margin-top: 10px;
+    background: rgb(255, 255, 255);
+    box-shadow: 13px 13px 30px rgb(138, 138, 138);
+    margin-right: 10px;
+}
+
+div{
+    margin-top: 20px;
+    height: 500px;
+    width: 500px;
+    background: rgb(255, 255, 255);
+    
+}
+
+div:hover{
+    margin-top: 20px;
+    height: 500px;
+    width: 500px;
+    background: rgb(255, 255, 255);
+    box-shadow: 13px 13px 30px rgb(138, 138, 138);
+    margin-right: 10px;
+}
